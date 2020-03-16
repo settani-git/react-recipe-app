@@ -145,10 +145,10 @@ button span:before, button span:after {
 }
 
 .Products {
-    width: 30%;
-    text-align: center;
-    margin: 250px auto;
-    font-family: "Roboto", Arial, sans-serif;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .Product {
